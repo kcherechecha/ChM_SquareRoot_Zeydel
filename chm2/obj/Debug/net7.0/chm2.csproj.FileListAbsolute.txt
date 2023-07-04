@@ -1,0 +1,15 @@
+/Users/kcherechecha/RiderProjects/chm2/chm2/bin/Debug/net7.0/chm2
+/Users/kcherechecha/RiderProjects/chm2/chm2/bin/Debug/net7.0/chm2.deps.json
+/Users/kcherechecha/RiderProjects/chm2/chm2/bin/Debug/net7.0/chm2.runtimeconfig.json
+/Users/kcherechecha/RiderProjects/chm2/chm2/bin/Debug/net7.0/chm2.dll
+/Users/kcherechecha/RiderProjects/chm2/chm2/bin/Debug/net7.0/chm2.pdb
+/Users/kcherechecha/RiderProjects/chm2/chm2/obj/Debug/net7.0/chm2.csproj.AssemblyReference.cache
+/Users/kcherechecha/RiderProjects/chm2/chm2/obj/Debug/net7.0/chm2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kcherechecha/RiderProjects/chm2/chm2/obj/Debug/net7.0/chm2.AssemblyInfoInputs.cache
+/Users/kcherechecha/RiderProjects/chm2/chm2/obj/Debug/net7.0/chm2.AssemblyInfo.cs
+/Users/kcherechecha/RiderProjects/chm2/chm2/obj/Debug/net7.0/chm2.csproj.CoreCompileInputs.cache
+/Users/kcherechecha/RiderProjects/chm2/chm2/obj/Debug/net7.0/chm2.dll
+/Users/kcherechecha/RiderProjects/chm2/chm2/obj/Debug/net7.0/refint/chm2.dll
+/Users/kcherechecha/RiderProjects/chm2/chm2/obj/Debug/net7.0/chm2.pdb
+/Users/kcherechecha/RiderProjects/chm2/chm2/obj/Debug/net7.0/chm2.genruntimeconfig.cache
+/Users/kcherechecha/RiderProjects/chm2/chm2/obj/Debug/net7.0/ref/chm2.dll
